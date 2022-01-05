@@ -82,3 +82,4 @@ cv2.imwrite('rotated_image.jpg', rotated_image)
 ```python
 
 ```
+![image](https://user-images.githubusercontent.com/95746548/148200481-a72c7dbf-ef0b-4bf8-87be-7ccc3a7aa660.png)
